@@ -1,0 +1,10 @@
+signal consumer > rabitmq > update database
+mongodb: vehicle collection
+apps:
+  mobileapp
+  lucid garage
+  developer applications:
+    open api:
+      oauth2
+    lucid marketplace = apple store = google play store
+
